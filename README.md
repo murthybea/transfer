@@ -1,3 +1,3 @@
 # transfer
 This my first repository
-test brnch updated
+test branch updated
